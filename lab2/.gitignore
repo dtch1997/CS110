@@ -1,0 +1,11 @@
+# lab2 .gitignore 
+# mchang & jzelenski tweaked Feb 2017
+# jcain further tweaks April 2018
+
+# don't track these build products, anchored to top-level dir
+/*.d
+/*.o
+/*.a
+
+# explicitly name project executables here, anchored to top-level dir
+/exargs

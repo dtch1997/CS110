@@ -1,0 +1,2 @@
+diskimg.h:10:const int DISKIMG_MAX_FILESIZE = 7 * n_address_per_block * DISKIMG_SECTOR_SIZE + n_address_per_block * n_address_per_block * DISKIMG_SECTOR_SIZE;
+inode.c:54:    else if (filesize < DISKIMG_MAX_FILESIZE ) 

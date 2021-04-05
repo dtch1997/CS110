@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<rss version="2.0">
+  <channel>
+    <item>
+      <title>New York Times - Home Page</title>
+      <link>https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml</link>
+    </item>
+  </channel>
+</rss>
